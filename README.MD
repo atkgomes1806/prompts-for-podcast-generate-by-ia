@@ -19,12 +19,14 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    <audio id="audioPlayer" src="output/áudio_bruto.mp3" preload="auto"></audio>
 </p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+<p align="center">
+    <button onclick="document.getElementById('audioPlayer').play()" style="background-color: #28DA77; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+        Play
+    </button>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
