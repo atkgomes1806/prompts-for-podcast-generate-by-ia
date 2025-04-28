@@ -65,14 +65,13 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo ChatGPT no `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Bing Image Creator`
 
-## 👨‍💻 Expert
+## 👨‍💻 Newbie
 
-<p>
-    <img 
+ <img 
         align="left" 
         margin="10" 
         width="80" 
-        src="https://avatars.githubusercontent.com/u/37452836?v=4" 
+        src="./assets/cover2.png" 
         alt="Avatar de Atkgomes"
     />
     <p>&nbsp;&nbsp;Atkgomes<br>
